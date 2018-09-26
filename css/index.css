@@ -1,0 +1,199 @@
+.header .w {
+	height: 33px;
+	background-color: #dc363b;
+}
+.header .fr {
+	margin-right: 165px;
+}
+.header li {
+	float: left;
+	height: 33px;
+	line-height: 33px;
+}
+.header li a {
+	color: #fff;
+}
+.header .shu {
+	width:2px;
+	height: 12px;
+	background-color: #fff;
+	margin: 10px 22px;
+}
+.header .kzt {
+	height: 24px;
+	padding: 0 8px;
+	border: 1px solid #fff;
+	border-radius: 10%;
+	margin-left: 19px;
+}
+/*nav*/
+.nav .w {
+	height: 49px;
+	padding-top: 18px;
+	background-color: #d8def1;
+}
+.nav a {
+	display: block;
+	height: 47px;
+	padding: 0 4px;
+}
+.nav .xbk {
+	border-bottom: 3px solid red;
+}
+.nav .logo {
+	margin-left: 182px;
+}
+.lie li {
+	float: left;
+	height: 49px;
+	line-height: 49px;
+	margin-right: 50px;
+}
+/*panner开始*/
+.panner img {
+	height: 651px;
+	width: 1347px;
+}
+/*标题部分*/
+.bt .w {
+	height: 70px;
+	padding: 45px 0 50px 0;
+}
+.bt h2 {
+	margin-left: 599px;
+	margin-bottom: 39px;
+	font-size: 35px;
+	font-weight: 400;
+}
+.bt p {
+	margin-left: 546px;
+}
+.pic .w li {
+	height: 175px;
+	width: 166px;
+	background:rgba(0, 0, 0, .3);
+	float: left;
+	margin-top: 50px;
+	border-right: 1px solid #fff;
+}
+.pic .tu img {
+	margin: 45px 45px 22px 58px;
+}
+.pic p {
+	text-align: center;
+	font-size: 18px;
+}
+.pic .tu {
+	margin-left: 182px;
+}
+.ty .w {
+	height: 75px;
+	padding-top: 138px;
+}
+.ty h2 {
+	font-size: 35px;
+	margin-left: 580px;
+}
+.ty p {
+	font-size: 16px;
+	margin-left: 528px;
+	margin-top: 30px;
+}
+.jj .w {
+	margin-top: 85px;
+}
+.jj .picc {
+	margin-left: 28px;
+}
+.jj .dl {
+	width: 480px;
+	height: 226px;
+	margin-top: 96px;
+	margin-right: 30px;
+}
+.jj h2 {
+	font-size: 24px;
+	font-weight: 400;
+}
+.jj .dl p {
+	margin-top: 37px;
+	margin-bottom: 21px
+}
+.jj  .w .gd {
+	width: 106px;
+	height: 34px;
+	border: 1px solid red;
+	line-height: 34px;
+	text-align: center;
+}
+.gd a {
+	color: #8f8f8f;
+}
+.xw .w {
+	margin-top: 70px;
+}
+.xw .pp {
+	margin-right: 60px;
+}
+.mr7 {
+	margin-right: 65px;
+}
+.pp ul {
+	margin-top: 33px;
+}
+.cp ul {
+	margin-top: 33px;
+}
+.zx div {
+	margin-top: 33px;
+}
+.zx p {
+	margin-top: 35px;
+}
+.xw h2 {
+	font-weight: 400;
+}
+.xw li {
+	height: 35px;
+}
+/*脚底部分开始*/
+.footer dl {
+	float: left;
+	margin-top: 40px;
+	width: 200px;
+}
+
+.footer .w {
+	height: 345px;
+	background-color: #333232;
+	margin-top: 102px;
+}
+.footer .lieb {
+	margin-left: 180px;
+}
+.footer dl dt {
+	margin-bottom: 30px;
+	color: #e4e4e4;
+}
+.footer dl dd {
+	color: #494949;
+	height: 28px;
+}
+.footer .ewm {
+	width: 258px;
+	height: 180px;
+	margin-top: 40px;
+	margin-right: 100px;
+}
+.footer .ewm img {
+	margin-right: 12px;
+}
+.footer ul li {
+	height: 43px;
+	color: #d7d7d7;
+}
+.ewm p {
+	color: #d7d7d7;
+}
+
+
